@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Boutoto Godsend
+CS Student @UMNG Brazzaville & Ensign College
+Brazzaville, Congo
+Currently: L2 informatique (UMNG). Networking (Ensign College)
+Learning: Algorithms . Data Stuctures .Networking
+Goal: Software Developer .Cybersecurity . Cloud
 
-<!--
-**boutoto-godsend/boutoto-godsend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Coursework @ UMNG
+-Programming: C++, Python, Windev, PHP & MySQL
+-Systems: Linus(OS), Networking 1
+-Modeling: MERISE, Graph Theory
+-Web: HTML, PHP, MySQL
 
-Here are some ideas to get you started:
+## Current Coursework @ Ensign College
+-Networking: Routing, Switching, Network Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+-Languages: C++, Python, PHP, SQL
+-Tools: Git, LInux, Cisco Packet Tracer, Windev
+-Networking: OSPF, VLAN, DHCP, Wireshark
+
+## Current Projects
+-C++ & Python Curriculum - Harvard Level
+-Cisco Packet Tracer Labs
+
+## Contact
+-GitHub: github.com/boutoto-godsend
+
+
